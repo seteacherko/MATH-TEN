@@ -1,0 +1,14 @@
+{
+  "name": "十的分解合成",
+  "short_name": "十的分合",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FBF8F2",
+  "theme_color": "#3F7D6B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
